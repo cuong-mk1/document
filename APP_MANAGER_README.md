@@ -43,3 +43,9 @@ B6: Sử dụng thiết bị test mở carema và quét QR code đã được t�
 
 ### Tạo QR code
 ![image description](./GenCode.png)
+
+### Dev note cho Project 
+![image description](./CommentProject.png)
+
+### Dev và tester comment build 
+![image description](./CommentVersion.png)
