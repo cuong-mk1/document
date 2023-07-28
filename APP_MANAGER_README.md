@@ -31,4 +31,5 @@ B4: Click Quản lý phiên bản build để xem danh sách các bản build đ
 B5: Click TẠO QR CODE ở mỗi bản build để tạo QR code
 B6: Sử dụng thiết bị test mở carema và quét QR code đã được tạo
 ```
-<img src="https://en.wikipedia.org/wiki/Image#/media/File:Image_created_with_a_mobile_phone.png">
+![image description](hnc_auto.png)
+<img src="./hnc_auto.png"/>
